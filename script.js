@@ -1,8 +1,8 @@
 // Sample initial books data
 let books = [
-    { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald", year: 1925, status: "Available" },
-    { id: 2, title: "1984", author: "George Orwell", year: 1949, status: "Available" },
-    { id: 3, title: "To Kill a Mockingbird", author: "Harper Lee", year: 1960, status: "Available" }
+    { id: 1, title: "The Catcher in the Rye", author: "J.D. Salinger", year: 1951, status: "Available" },
+    { id: 2, title: "The Hobbit", author: "J.R.R. Tolkien", year: 1937, status: "Available" },
+    { id: 3, title: "Pride and Prejudice", author: "Jane Austen", year: 1813, status: "Available" }
 ];
 
 // DOM elements
